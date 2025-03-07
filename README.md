@@ -31,6 +31,6 @@
 
   <img align="center" alt="Arthur-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 <img align="center" alt="Arthur-NEXT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="Arthur-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnativer/reactnative.svg">
+<img align="center" alt="Arthur-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-nativer/react-native.svg">
 
 </div>
