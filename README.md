@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋, sou Arthur Sousa</h1>
+<h1 align="left">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >, sou Arthur Sousa</h1>
 
 ### 🚀 Tecnologias que utilizo:
 - React.js
